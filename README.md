@@ -18,27 +18,36 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💻 Backend Developer specialized in **Laravel**
-- ⚛️ Frontend development with **React**
-- 🔗 Building **REST APIs**
-- 🗄️ MySQL database experience
-- 🌱 Currently learning **Next.js**
-- 🎯 Goal: **Senior Full Stack Developer**
+<table>
+<tr>
+<td width="55%">
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif"/>
----
+💻 Backend Developer specialized in **Laravel**
 
-# 🧰 Tech Stack
+⚛️ Building interfaces with **React**
 
-<p align="center">
+🔗 Building **REST APIs**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,html,css,bootstrap,mysql,git,github,linux"/>
+🗄️ Working with **MySQL**
 
+🌱 Currently learning **Next.js**
+
+🎯 Goal: Become **Senior Full Stack Developer**
+
+</td>
+
+<td width="45%">
+
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🧠 Featured Projects
 
@@ -130,7 +139,21 @@ Full stack website with frontend and backend development.
 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
+
+<h2 align="center">
+
+Thanks for visiting my profile ❤️
+
+</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+Profile!;Have+a+great+day!;See+you+again!+👋">
+
+</p>
 
 <div align="center">
 
