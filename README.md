@@ -27,6 +27,7 @@
 - 🌱 Currently learning **Next.js**
 - 🎯 Goal: **Senior Full Stack Developer**
 
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif"/>
 ---
 
 # 🧰 Tech Stack
