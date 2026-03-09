@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ahmed Gomaa</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ahmed%20Gomaa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+---
 
 <h3 align="center">
-Laravel Backend Developer | React Developer
+💻 Laravel Backend Developer | ⚛️ React Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Laravel+Developer;React+Developer;Backend+Engineer;API+Developer;Open+Source+Learner" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;React+Developer;Backend+Engineer;API+Developer;Open+Source+Learner"/>
+
 </p>
 
 ---
@@ -15,9 +23,9 @@ Laravel Backend Developer | React Developer
 - 💻 Backend Developer specialized in **Laravel**
 - ⚛️ Frontend development with **React**
 - 🔗 Building **REST APIs**
-- 🗄️ Database experience with **MySQL**
+- 🗄️ MySQL database experience
 - 🌱 Currently learning **Next.js**
-- 🎯 Goal: Become **Senior Full Stack Developer**
+- 🎯 Goal: **Senior Full Stack Developer**
 
 ---
 
@@ -33,14 +41,17 @@ Laravel Backend Developer | React Developer
 
 # 🧠 Featured Projects
 
-### 🚀 ElDaheeh Platform
-Laravel + React project that collects YouTube episodes and displays them via API.
+🚀 **ElDaheeh Platform**
 
-### 🛰 NASA Space Apps Challenge
-A project built during the NASA international hackathon.
+Laravel + React project that collects YouTube episodes and displays them through API.
 
-### 🎨 CreativeArt Website
-Full-stack website with frontend and backend development.
+🛰 **NASA Space Apps Challenge**
+
+International hackathon project.
+
+🎨 **CreativeArt Website**
+
+Full stack website with frontend and backend development.
 
 ---
 
@@ -48,7 +59,9 @@ Full-stack website with frontend and backend development.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed9030&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed9030&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed9030&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -58,17 +71,7 @@ Full-stack website with frontend and backend development.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ahmed9030&theme=tokyonight" />
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed9030&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Ahmed9030&theme=tokyonight"/>
 
 </p>
 
@@ -76,15 +79,15 @@ Full-stack website with frontend and backend development.
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed9030&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed9030&theme=react-dark"/>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed9030&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed9030&theme=matrix"/>
 
 </p>
 
@@ -100,7 +103,7 @@ Full-stack website with frontend and backend development.
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
@@ -110,7 +113,7 @@ Full-stack website with frontend and backend development.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ahmed9030&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmed9030&label=Visitors&color=brightgreen&style=for-the-badge"/>
 
 </p>
 
@@ -121,7 +124,15 @@ Full-stack website with frontend and backend development.
 <p align="center">
 
 <a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+
+</div>
