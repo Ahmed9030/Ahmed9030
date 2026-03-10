@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <h3 align="center">
 💻 Laravel Backend Developer | ⚛️ React Developer
 </h3>
@@ -81,7 +79,7 @@ Full stack website with frontend and backend development.
 
 </p>
 
----
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284126-4a7c5c19-11f7-4b88-9c9e-5c2c80e0c4d5.gif" width="800"/>
@@ -112,12 +110,6 @@ Full stack website with frontend and backend development.
 <img src="https://github-profile-trophy.vercel.app/?username=Ahmed9030&theme=matrix"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Ahmed9030/Ahmed9030/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -153,17 +145,8 @@ Full stack website with frontend and backend development.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-<h2 align="center">
-
-Thanks for visiting my profile ❤️
-
-</h2>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+Profile!;Have+a+great+day!;See+you+again!+👋">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+Profile❤️;Have+a+great+day!;See+you+again!+👋">
 
 </p>
 
