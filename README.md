@@ -47,6 +47,12 @@
 </table>
 </p>
 
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284103-2f4c3c9f-3f9f-4e42-9c4c-2f1cdbd7a0d1.gif" width="500"/>
+
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🧠 Featured Projects
@@ -73,6 +79,12 @@ Full stack website with frontend and backend development.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed9030&layout=compact&theme=tokyonight"/>
 
+</p>
+
+---
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284126-4a7c5c19-11f7-4b88-9c9e-5c2c80e0c4d5.gif" width="800"/>
 </p>
 
 ---
