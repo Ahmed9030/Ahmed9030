@@ -137,7 +137,7 @@ Full stack website with frontend and backend development.
 
 <p align="center">
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/ahmed-gomaa-688619216">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
