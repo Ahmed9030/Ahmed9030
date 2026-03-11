@@ -5,12 +5,12 @@
 </div>
 
 <h3 align="center">
-💻 Laravel Backend Developer | ⚛️ React Developer
+💻 Laravel Backend Developer | ⚛️ React Developer | 🇳 Next.js
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;React+Developer;Backend+Engineer;API+Developer;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;React+Developer;Next.js+Developer;Backend+Engineer;API+Developer;Open+Source+Learner"/>
 
 </p>
 
@@ -145,10 +145,9 @@ Full stack website with frontend and backend development.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+Profile❤️;Have+a+great+day!;See+you+again!+👋">
-
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+Profile+❤️;Have+a+great+day!;See+you+again!+👋">
+</div>
 
 <div align="center">
 
